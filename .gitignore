@@ -1,0 +1,13 @@
+# Backend
+Backend/node_modules/
+Backend/.env
+
+# Frontend
+Frontend/client/node_modules/
+Frontend/client/dist/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
